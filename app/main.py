@@ -28,6 +28,5 @@ sorted_variables = {
         pi,
         one_is_a_prime_number,
         name,
-        
     ],
 }
