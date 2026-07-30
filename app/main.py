@@ -31,6 +31,6 @@ sorted_variables = {
         pi,
         one_is_a_prime_number,
         name,
-        profile_info,
+        profile_info,  # <-- aqui na lista de immutable
     ],
 }
